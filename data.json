@@ -1,0 +1,3242 @@
+[
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Honduras",
+    "Homicidio": 81.570758,
+    "Felicidad": 5.142,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Venezuela",
+    "Homicidio": 54.53602876,
+    "Felicidad": 7.039,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Jamaica",
+    "Homicidio": 43.01917468,
+    "Felicidad": 5.374,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "El Salvador",
+    "Homicidio": 42.10157972,
+    "Felicidad": 5.809,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Guatemala",
+    "Homicidio": 39.93018378,
+    "Felicidad": 5.965,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Canadá",
+    "Homicidio": 1.482857825,
+    "Felicidad": 7.477,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Chile",
+    "Homicidio": 2.476379971,
+    "Felicidad": 6.587,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Estados Unidos",
+    "Homicidio": 4.398293846,
+    "Felicidad": 7.082,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Cuba",
+    "Homicidio": 5.29472841,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2012,
+    "País": "Suriname",
+    "Homicidio": 5.617168877,
+    "Felicidad": 6.269,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Kazajstán",
+    "Homicidio": 7.402268784,
+    "Felicidad": 5.671,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Mongolia",
+    "Homicidio": 7.126616336,
+    "Felicidad": 4.834,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Pakistán",
+    "Homicidio": 6.847477104,
+    "Felicidad": 5.292,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Kazajstán",
+    "Homicidio": 6.759661825,
+    "Felicidad": 5.671,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Kirguistán",
+    "Homicidio": 6.393912575,
+    "Felicidad": 5.042,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Singapur",
+    "Homicidio": 0.2513238709,
+    "Felicidad": 6.546,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Omán",
+    "Homicidio": 0.2993065442,
+    "Felicidad": 6.853,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Japón",
+    "Homicidio": 0.309860462,
+    "Felicidad": 6.064,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Qatar",
+    "Homicidio": 0.4064187979,
+    "Felicidad": 6.666,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2012,
+    "País": "Ribera Occidental y Gaza",
+    "Homicidio": 0.5478858512,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Federación de Rusia",
+    "Homicidio": 11.31175393,
+    "Felicidad": "#N/A",
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Ucrania",
+    "Homicidio": 6.594107545,
+    "Felicidad": 5.057,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Lituania",
+    "Homicidio": 5.428406749,
+    "Felicidad": 5.426,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Albania",
+    "Homicidio": 5.14466887,
+    "Felicidad": 5.55,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Estonia",
+    "Homicidio": 4.763049622,
+    "Felicidad": 5.426,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Islandia",
+    "Homicidio": 0.3052097783,
+    "Felicidad": 7.355,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Austria",
+    "Homicidio": 0.4914542253,
+    "Felicidad": 7.369,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Suiza",
+    "Homicidio": 0.5007455613,
+    "Felicidad": 7.65,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Noruega",
+    "Homicidio": 0.5644303579,
+    "Felicidad": 7.655,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2012,
+    "País": "Irlanda",
+    "Homicidio": 0.6816230447,
+    "Felicidad": 7.076,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Sudáfrica",
+    "Homicidio": 30.50708427,
+    "Felicidad": 4.963,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Uganda",
+    "Homicidio": 17.90105515,
+    "Felicidad": 4.443,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Cabo Verde",
+    "Homicidio": "#N/A",
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Kenia",
+    "Homicidio": 11.86346396,
+    "Felicidad": 4.403,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Camerún",
+    "Homicidio": 7.3952169,
+    "Felicidad": 4.42,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Marruecos",
+    "Homicidio": 1.036538614,
+    "Felicidad": 4.885,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Argelia",
+    "Homicidio": 1.488641658,
+    "Felicidad": 5.422,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Ghana",
+    "Homicidio": 1.925780593,
+    "Felicidad": 5.091,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Egipto, República Árabe de",
+    "Homicidio": 3.023255298,
+    "Felicidad": 4.273,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2012,
+    "País": "Camerún",
+    "Homicidio": 3.456242154,
+    "Felicidad": 4.42,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Honduras",
+    "Homicidio": 64.53877155,
+    "Felicidad": 4.788,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "El Salvador",
+    "Homicidio": 63.14491129,
+    "Felicidad": 6.13,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Venezuela",
+    "Homicidio": 63.02731452,
+    "Felicidad": 6.81,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Jamaica",
+    "Homicidio": 36.09209842,
+    "Felicidad": 5.709,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Belice",
+    "Homicidio": 34.90995785,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Canadá",
+    "Homicidio": 1.482857825,
+    "Felicidad": 7.427,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Chile",
+    "Homicidio": 2.476379971,
+    "Felicidad": 6.67,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Estados Unidos",
+    "Homicidio": 4.398293846,
+    "Felicidad": 7.119,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Cuba",
+    "Homicidio": 5.29472841,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2014,
+    "País": "Suriname",
+    "Homicidio": 5.617168877,
+    "Felicidad": 6.269,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Afganistán",
+    "Homicidio": 9.383404535,
+    "Felicidad": 3.575,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Mongolia",
+    "Homicidio": 7.337685994,
+    "Felicidad": 4.874,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Pakistán",
+    "Homicidio": 6.374980191,
+    "Felicidad": 5.194,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Kirguistán",
+    "Homicidio": 5.475213452,
+    "Felicidad": 5.286,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Kazajstán",
+    "Homicidio": 5.138612509,
+    "Felicidad": 5.855,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Singapur",
+    "Homicidio": 0.2513238709,
+    "Felicidad": 6.798,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Omán",
+    "Homicidio": 0.2993065442,
+    "Felicidad": 6.853,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Japón",
+    "Homicidio": 0.309860462,
+    "Felicidad": 5.987,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "Qatar",
+    "Homicidio": 0.4064187979,
+    "Felicidad": 6.611,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2014,
+    "País": "China",
+    "Homicidio": 0.5478858512,
+    "Felicidad": 5.14,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Federación de Rusia",
+    "Homicidio": 11.44678379,
+    "Felicidad": "#N/A",
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Ucrania",
+    "Homicidio": 6.3014869,
+    "Felicidad": 4.681,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Lituania",
+    "Homicidio": 5.308976595,
+    "Felicidad": 5.833,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Albania",
+    "Homicidio": 4.646160226,
+    "Felicidad": 4.959,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Letonia",
+    "Homicidio": 3.182434552,
+    "Felicidad": 5.098,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Islandia",
+    "Homicidio": 0.3052097783,
+    "Felicidad": 7.561,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Austria",
+    "Homicidio": 0.4914542253,
+    "Felicidad": 7.2,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Suiza",
+    "Homicidio": 0.5007455613,
+    "Felicidad": 7.587,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Noruega",
+    "Homicidio": 0.5644303579,
+    "Felicidad": 7.522,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2014,
+    "País": "Irlanda",
+    "Homicidio": 0.6816230447,
+    "Felicidad": 6.94,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Sudáfrica",
+    "Homicidio": 32.53269883,
+    "Felicidad": 4.642,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Uganda",
+    "Homicidio": 12.30992291,
+    "Felicidad": 3.931,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Cabo Verde",
+    "Homicidio": 11.90310506,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Kenia",
+    "Homicidio": 5.029252193,
+    "Felicidad": 4.419,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Rwanda",
+    "Homicidio": 3.764804732,
+    "Felicidad": 3.465,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Marruecos",
+    "Homicidio": 1.036538614,
+    "Felicidad": 5.013,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Argelia",
+    "Homicidio": 1.488641658,
+    "Felicidad": 5.605,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Ghana",
+    "Homicidio": 1.925780593,
+    "Felicidad": 4.633,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Egipto, República Árabe de",
+    "Homicidio": 3.023255298,
+    "Felicidad": 4.194,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2014,
+    "País": "Camerún",
+    "Homicidio": 3.456242154,
+    "Felicidad": 4.252,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "El Salvador",
+    "Homicidio": 106.8196036,
+    "Felicidad": 6.068,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Honduras",
+    "Homicidio": 55.38756204,
+    "Felicidad": 4.871,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Venezuela",
+    "Homicidio": 51.27463354,
+    "Felicidad": 6.084,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Jamaica",
+    "Homicidio": 43.26441266,
+    "Felicidad": 5.51,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Guatemala",
+    "Homicidio": 39.46332998,
+    "Felicidad": 6.324,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Canadá",
+    "Homicidio": 1.709945834,
+    "Felicidad": 7.404,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Chile",
+    "Homicidio": 2.344695538,
+    "Felicidad": 6.705,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Estados Unidos",
+    "Homicidio": 4.892981977,
+    "Felicidad": 7.104,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Bolivia",
+    "Homicidio": 4.896265227,
+    "Felicidad": 5.822,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2015,
+    "País": "Granada",
+    "Homicidio": 5.042885539,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Afganistán",
+    "Homicidio": 9.97526212,
+    "Felicidad": 3.36,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Mongolia",
+    "Homicidio": 7.218150207,
+    "Felicidad": 4.907,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Kirguistán",
+    "Homicidio": 5.118200219,
+    "Felicidad": 5.185,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Kazajstán",
+    "Homicidio": 4.78248697,
+    "Felicidad": 5.919,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Pakistán",
+    "Homicidio": 4.496388854,
+    "Felicidad": 5.132,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Singapur",
+    "Homicidio": 0.2477868212,
+    "Felicidad": 6.739,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Qatar",
+    "Homicidio": 0.2484911925,
+    "Felicidad": 6.375,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Japón",
+    "Homicidio": 0.2852631344,
+    "Felicidad": 5.921,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "Omán",
+    "Homicidio": 0.38169974,
+    "Felicidad": 6.853,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2015,
+    "País": "China",
+    "Homicidio": 0.6601060503,
+    "Felicidad": 5.245,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Federación de Rusia",
+    "Homicidio": 11.50631458,
+    "Felicidad": 5.716,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Ucrania",
+    "Homicidio": 6.606796672,
+    "Felicidad": 4.324,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Lituania",
+    "Homicidio": 5.803430063,
+    "Felicidad": 5.813,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Estonia",
+    "Homicidio": 3.422947363,
+    "Felicidad": 5.517,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Letonia",
+    "Homicidio": 3.363530643,
+    "Felicidad": 5.56,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Noruega",
+    "Homicidio": 0.4623959838,
+    "Felicidad": 7.498,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Austria",
+    "Homicidio": 0.5091166005,
+    "Felicidad": 7.119,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Países Bajos",
+    "Homicidio": 0.6102889733,
+    "Felicidad": 7.339,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "España",
+    "Homicidio": 0.6504227252,
+    "Felicidad": 6.361,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2015,
+    "País": "Irlanda",
+    "Homicidio": 0.6644148006,
+    "Felicidad": 6.907,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Sudáfrica",
+    "Homicidio": 33.41833984,
+    "Felicidad": 4.459,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Uganda",
+    "Homicidio": 12.65586198,
+    "Felicidad": 3.739,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Cabo Verde",
+    "Homicidio": 8.330828048,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Kenia",
+    "Homicidio": 4.825887229,
+    "Felicidad": 4.356,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Camerún",
+    "Homicidio": 3.741421049,
+    "Felicidad": 4.513,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Marruecos",
+    "Homicidio": 1.242774821,
+    "Felicidad": 5.151,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Argelia",
+    "Homicidio": 1.380769964,
+    "Felicidad": 6.355,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Egipto, República Árabe de",
+    "Homicidio": 1.750852941,
+    "Felicidad": 4.362,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Ghana",
+    "Homicidio": 1.818437565,
+    "Felicidad": 4.276,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2015,
+    "País": "Rwanda",
+    "Homicidio": 2.516542401,
+    "Felicidad": 3.515,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "El Salvador",
+    "Homicidio": 84.40911222,
+    "Felicidad": 6.003,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "Venezuela",
+    "Homicidio": 56.62384941,
+    "Felicidad": 5.25,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "Honduras",
+    "Homicidio": 54.43515729,
+    "Felicidad": 5.181,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "Jamaica",
+    "Homicidio": 48.31063524,
+    "Felicidad": 5.311,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "San Vicente y las Granadinas",
+    "Homicidio": 37.74920373,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "Canadá",
+    "Homicidio": 1.705731802,
+    "Felicidad": 7.316,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "Chile",
+    "Homicidio": 3.428467879,
+    "Felicidad": 6.652,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "Cuba",
+    "Homicidio": 5.043197144,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "Estados Unidos",
+    "Homicidio": 5.321655653,
+    "Felicidad": 6.993,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2016,
+    "País": "Bolivia",
+    "Homicidio": 5.700072063,
+    "Felicidad": 5.823,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Afganistán",
+    "Homicidio": 6.69241862,
+    "Felicidad": 3.794,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Mongolia",
+    "Homicidio": 6.073500246,
+    "Felicidad": 4.955,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Pakistán",
+    "Homicidio": 3.988294767,
+    "Felicidad": 5.269,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Maldivas",
+    "Homicidio": 3.962553866,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Líbano",
+    "Homicidio": 3.75482165,
+    "Felicidad": 5.225,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Japón",
+    "Homicidio": 0.285053157,
+    "Felicidad": 5.92,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Singapur",
+    "Homicidio": 0.3151297468,
+    "Felicidad": 6.572,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Omán",
+    "Homicidio": 0.3637959378,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Ribera Occidental y Gaza",
+    "Homicidio": 0.4135966188,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2016,
+    "País": "Qatar",
+    "Homicidio": 0.4623981664,
+    "Felicidad": 6.375,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Federación de Rusia",
+    "Homicidio": 10.93245966,
+    "Felicidad": 5.856,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Ucrania",
+    "Homicidio": 6.079664677,
+    "Felicidad": 4.096,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Lituania",
+    "Homicidio": 5.215304293,
+    "Felicidad": 5.902,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Estonia",
+    "Homicidio": 4.421540165,
+    "Felicidad": 5.611,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Letonia",
+    "Homicidio": 3.496368844,
+    "Felicidad": 5.85,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Islandia",
+    "Homicidio": 0.2979076457,
+    "Felicidad": 7.504,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Eslovenia",
+    "Homicidio": 0.4784643209,
+    "Felicidad": 5.758,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Noruega",
+    "Homicidio": 0.5156027602,
+    "Felicidad": 7.537,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Suiza",
+    "Homicidio": 0.5374483243,
+    "Felicidad": 7.494,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2016,
+    "País": "Países Bajos",
+    "Homicidio": 0.5489209761,
+    "Felicidad": 7.377,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Sudáfrica",
+    "Homicidio": 33.70300206,
+    "Felicidad": 4.829,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Uganda",
+    "Homicidio": 11.56695937,
+    "Felicidad": 4.081,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Cabo Verde",
+    "Homicidio": 11.10326122,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Kenia",
+    "Homicidio": 4.933743149,
+    "Felicidad": 4.553,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Camerún",
+    "Homicidio": 3.319046392,
+    "Felicidad": 4.695,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Argelia",
+    "Homicidio": 1.343601939,
+    "Felicidad": 5.872,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Egipto, República Árabe de",
+    "Homicidio": 1.535315829,
+    "Felicidad": 4.735,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Marruecos",
+    "Homicidio": 1.691957563,
+    "Felicidad": 5.235,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Ghana",
+    "Homicidio": 1.857597553,
+    "Felicidad": 4.12,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2016,
+    "País": "Rwanda",
+    "Homicidio": 3.285586305,
+    "Felicidad": 3.471,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "El Salvador",
+    "Homicidio": 63.223527,
+    "Felicidad": 6.167,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Jamaica",
+    "Homicidio": 58.64600371,
+    "Felicidad": 5.89,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Venezuela",
+    "Homicidio": 47.98217452,
+    "Felicidad": 4.806,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Honduras",
+    "Homicidio": 40.13777311,
+    "Felicidad": 5.504,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Belice",
+    "Homicidio": 37.89764167,
+    "Felicidad": 5.956,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Canadá",
+    "Homicidio": 1.819209056,
+    "Felicidad": 7.328,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Chile",
+    "Homicidio": 4.240938207,
+    "Felicidad": 6.476,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Cuba",
+    "Homicidio": 4.55170753,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Estados Unidos",
+    "Homicidio": 5.243923549,
+    "Felicidad": 6.886,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2017,
+    "País": "Argentina",
+    "Homicidio": 5.259380765,
+    "Felicidad": 6.388,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Maldivas",
+    "Homicidio": 7.196650594,
+    "Felicidad": "#N/A",
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Afganistán",
+    "Homicidio": 6.800694686,
+    "Felicidad": 3.632,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Mongolia",
+    "Homicidio": 6.169191863,
+    "Felicidad": 5.125,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Kazajstán",
+    "Homicidio": 4.995955733,
+    "Felicidad": 5.79,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Líbano",
+    "Homicidio": 4.026679864,
+    "Felicidad": 5.199,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Singapur",
+    "Homicidio": 0.190823572,
+    "Felicidad": 6.343,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Japón",
+    "Homicidio": 0.2415869477,
+    "Felicidad": 5.915,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Omán",
+    "Homicidio": 0.3742964877,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "Qatar",
+    "Homicidio": 0.4425179344,
+    "Felicidad": 6.374,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2017,
+    "País": "China",
+    "Homicidio": 0.5665557839,
+    "Felicidad": 5.246,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Federación de Rusia",
+    "Homicidio": 9.139063756,
+    "Felicidad": 5.963,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Ucrania",
+    "Homicidio": 6.160253037,
+    "Felicidad": 4.103,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Letonia",
+    "Homicidio": 4.14351393,
+    "Felicidad": 5.933,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Lituania",
+    "Homicidio": 3.442992649,
+    "Felicidad": 5.952,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Montenegro",
+    "Homicidio": 2.371773992,
+    "Felicidad": 5.347,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Noruega",
+    "Homicidio": 0.530565047,
+    "Felicidad": 7.594,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Suiza",
+    "Homicidio": 0.5324380801,
+    "Felicidad": 7.487,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Chipre",
+    "Homicidio": 0.5792194274,
+    "Felicidad": 5.762,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "Italia",
+    "Homicidio": 0.6266245575,
+    "Felicidad": 6,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2017,
+    "País": "República Checa",
+    "Homicidio": 0.6267029585,
+    "Felicidad": 6.711,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Sudáfrica",
+    "Homicidio": 35.90318812,
+    "Felicidad": 4.724,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Uganda",
+    "Homicidio": 11.80000989,
+    "Felicidad": 4.161,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Cabo Verde",
+    "Homicidio": 6.726211338,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Kenia",
+    "Homicidio": 5.037985409,
+    "Felicidad": 4.41,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Camerún",
+    "Homicidio": 4.115904274,
+    "Felicidad": 4.975,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Argelia",
+    "Homicidio": 1.273806508,
+    "Felicidad": 5.295,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Egipto, República Árabe de",
+    "Homicidio": 1.336092161,
+    "Felicidad": 4.419,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Ghana",
+    "Homicidio": 2.015070911,
+    "Felicidad": 4.657,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Marruecos",
+    "Homicidio": 2.141965626,
+    "Felicidad": 5.254,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2017,
+    "País": "Rwanda",
+    "Homicidio": 3.842902474,
+    "Felicidad": 3.408,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "El Salvador",
+    "Homicidio": 53.31130352,
+    "Felicidad": 6.253,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Jamaica",
+    "Homicidio": 45.84195019,
+    "Felicidad": 5.89,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Venezuela",
+    "Homicidio": 44.78044197,
+    "Felicidad": 4.707,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Honduras",
+    "Homicidio": 38.09922546,
+    "Felicidad": 5.86,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Belice",
+    "Homicidio": 37.42808834,
+    "Felicidad": 5.956,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Canadá",
+    "Homicidio": 1.787486053,
+    "Felicidad": 7.278,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Cuba",
+    "Homicidio": 4.334299297,
+    "Felicidad": "#N/A",
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Chile",
+    "Homicidio": 4.411422526,
+    "Felicidad": 6.444,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Estados Unidos",
+    "Homicidio": 4.929848302,
+    "Felicidad": 6.892,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2018,
+    "País": "Bolivia",
+    "Homicidio": 4.94533211,
+    "Felicidad": 5.779,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Afganistán",
+    "Homicidio": 6.743572835,
+    "Felicidad": 3.203,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Mongolia",
+    "Homicidio": 6.194707886,
+    "Felicidad": 5.285,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Pakistán",
+    "Homicidio": 3.750486739,
+    "Felicidad": 5.653,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Kazajstán",
+    "Homicidio": 3.32383638,
+    "Felicidad": 5.809,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "India",
+    "Homicidio": 2.993783858,
+    "Felicidad": 4.015,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Singapur",
+    "Homicidio": 0.1547844785,
+    "Felicidad": 6.262,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Japón",
+    "Homicidio": 0.2645421639,
+    "Felicidad": 5.886,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Omán",
+    "Homicidio": 0.282537662,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Qatar",
+    "Homicidio": 0.361437248,
+    "Felicidad": 6.374,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2018,
+    "País": "Ribera Occidental y Gaza",
+    "Homicidio": 0.4994229064,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Federación de Rusia",
+    "Homicidio": 8.214082865,
+    "Felicidad": 5.81,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Ucrania",
+    "Homicidio": 4.504245718,
+    "Felicidad": 4.332,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Letonia",
+    "Homicidio": 4.339671234,
+    "Felicidad": 5.94,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Lituania",
+    "Homicidio": 3.198745535,
+    "Felicidad": 6.149,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Albania",
+    "Homicidio": 2.294045943,
+    "Felicidad": 4.719,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Eslovenia",
+    "Homicidio": 0.4273658499,
+    "Felicidad": 6.118,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Noruega",
+    "Homicidio": 0.4706041805,
+    "Felicidad": 7.554,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "República Checa",
+    "Homicidio": 0.5331549936,
+    "Felicidad": 6.852,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Croacia",
+    "Homicidio": 0.5768558233,
+    "Felicidad": 5.432,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2018,
+    "País": "Países Bajos",
+    "Homicidio": 0.5785014123,
+    "Felicidad": 7.488,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Sudáfrica",
+    "Homicidio": 36.66224942,
+    "Felicidad": 4.722,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Namibia",
+    "Homicidio": 19.78650116,
+    "Felicidad": 4.639,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Uganda",
+    "Homicidio": 10.83212625,
+    "Felicidad": 4.189,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Cabo Verde",
+    "Homicidio": 5.427156616,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Zimbabwe",
+    "Homicidio": 4.876368771,
+    "Felicidad": 3.663,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Argelia",
+    "Homicidio": 1.354735386,
+    "Felicidad": 5.211,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Marruecos",
+    "Homicidio": 1.419524999,
+    "Felicidad": 5.208,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Ghana",
+    "Homicidio": 1.619661892,
+    "Felicidad": 4.996,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Rwanda",
+    "Homicidio": 2.274213038,
+    "Felicidad": 3.334,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2018,
+    "País": "Kenia",
+    "Homicidio": 3.140933381,
+    "Felicidad": 4.509,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Jamaica",
+    "Homicidio": 47.62288927,
+    "Felicidad": 5.89,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Honduras",
+    "Homicidio": 41.1092509,
+    "Felicidad": 5.953,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Venezuela",
+    "Homicidio": 40.98484646,
+    "Felicidad": 5.053,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "El Salvador",
+    "Homicidio": 38.18339398,
+    "Felicidad": 6.348,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Trinidad y Tobago",
+    "Homicidio": 35.46157617,
+    "Felicidad": 6.192,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Canadá",
+    "Homicidio": 1.836227459,
+    "Felicidad": 7.232,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Chile",
+    "Homicidio": 3.944434318,
+    "Felicidad": 6.228,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Bolivia",
+    "Homicidio": 4.219977313,
+    "Felicidad": 5.747,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Cuba",
+    "Homicidio": 4.418250503,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2019,
+    "País": "Estados Unidos",
+    "Homicidio": 4.985946527,
+    "Felicidad": 6.94,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Afganistán",
+    "Homicidio": 7.180397166,
+    "Felicidad": 2.567,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Mongolia",
+    "Homicidio": 6.341978998,
+    "Felicidad": 5.456,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Pakistán",
+    "Homicidio": 3.651251851,
+    "Felicidad": 5.693,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Sri Lanka",
+    "Homicidio": 3.427304923,
+    "Felicidad": 4.327,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Líbano",
+    "Homicidio": 3.14775066,
+    "Felicidad": 4.772,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Singapur",
+    "Homicidio": 0.2045545781,
+    "Felicidad": 6.377,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Japón",
+    "Homicidio": 0.2535938854,
+    "Felicidad": 5.871,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Kuwait",
+    "Homicidio": 0.3602711446,
+    "Felicidad": 6.102,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Qatar",
+    "Homicidio": 0.3918446443,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2019,
+    "País": "Omán",
+    "Homicidio": 0.4996993114,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Federación de Rusia",
+    "Homicidio": 7.686170067,
+    "Felicidad": 5.648,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Ucrania",
+    "Homicidio": 4.116613761,
+    "Felicidad": 4.561,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Montenegro",
+    "Homicidio": 3.648500308,
+    "Felicidad": 5.546,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Letonia",
+    "Homicidio": 3.391501055,
+    "Felicidad": 5.95,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Lituania",
+    "Homicidio": 3.299307181,
+    "Felicidad": 6.215,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Islandia",
+    "Homicidio": 0.2771814527,
+    "Felicidad": 7.504,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Noruega",
+    "Homicidio": 0.5235329462,
+    "Felicidad": 7.488,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Italia",
+    "Homicidio": 0.530739956,
+    "Felicidad": 6.387,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Suiza",
+    "Homicidio": 0.5364063353,
+    "Felicidad": 7.56,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2019,
+    "País": "Países Bajos",
+    "Homicidio": 0.6277622439,
+    "Felicidad": 7.449,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Sudáfrica",
+    "Homicidio": 36.71213836,
+    "Felicidad": 4.814,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Namibia",
+    "Homicidio": 13.03826526,
+    "Felicidad": 4.571,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Uganda",
+    "Homicidio": 10.98510143,
+    "Felicidad": 4.432,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Cabo Verde",
+    "Homicidio": 5.718935134,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Zimbabwe",
+    "Homicidio": 5.145035456,
+    "Felicidad": 3.299,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Argelia",
+    "Homicidio": 1.215303879,
+    "Felicidad": 5.005,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Marruecos",
+    "Homicidio": 1.727063029,
+    "Felicidad": 5.095,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Ghana",
+    "Homicidio": 1.81141662,
+    "Felicidad": 5.148,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Kenia",
+    "Homicidio": 3.093140627,
+    "Felicidad": 4.583,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2019,
+    "País": "Rwanda",
+    "Homicidio": 3.147636297,
+    "Felicidad": 3.312,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "Jamaica",
+    "Homicidio": 47.26220472,
+    "Felicidad": 6.309,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "Honduras",
+    "Homicidio": 35.79415957,
+    "Felicidad": 5.919,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "San Vicente y las Granadinas",
+    "Homicidio": 31.53895778,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "Venezuela",
+    "Homicidio": 29.42740101,
+    "Felicidad": 4.892,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "México",
+    "Homicidio": 29.18531406,
+    "Felicidad": 6.317,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "Canadá",
+    "Homicidio": 2.003235529,
+    "Felicidad": 7.103,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "Bolivia",
+    "Homicidio": 3.493585291,
+    "Felicidad": 5.716,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "Cuba",
+    "Homicidio": 4.418250503,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "Chile",
+    "Homicidio": 4.797849279,
+    "Felicidad": 6.172,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2020,
+    "País": "Argentina",
+    "Homicidio": 5.366813844,
+    "Felicidad": 5.929,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Afganistán",
+    "Homicidio": 6.594439084,
+    "Felicidad": 2.523,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Mongolia",
+    "Homicidio": 6.222803692,
+    "Felicidad": 5.677,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Pakistán",
+    "Homicidio": 3.736849385,
+    "Felicidad": 4.934,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Kazajstán",
+    "Homicidio": 3.192961911,
+    "Felicidad": 6.152,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Myanmar",
+    "Homicidio": 2.940670081,
+    "Felicidad": 4.426,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Singapur",
+    "Homicidio": 0.1692084741,
+    "Felicidad": 6.377,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Kuwait",
+    "Homicidio": 0.2522678594,
+    "Felicidad": 6.106,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Japón",
+    "Homicidio": 0.2539028369,
+    "Felicidad": 5.94,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Omán",
+    "Homicidio": 0.3081393807,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2020,
+    "País": "Qatar",
+    "Homicidio": 0.4347219681,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Federación de Rusia",
+    "Homicidio": 7.345966383,
+    "Felicidad": 5.546,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Ucrania",
+    "Homicidio": 3.867030054,
+    "Felicidad": 4.875,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Letonia",
+    "Homicidio": 3.689935753,
+    "Felicidad": 6.032,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Lituania",
+    "Homicidio": 3.581221846,
+    "Felicidad": 6.255,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Estonia",
+    "Homicidio": 3.159215431,
+    "Felicidad": 6.189,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Italia",
+    "Homicidio": 0.4789869396,
+    "Felicidad": 6.483,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Eslovenia",
+    "Homicidio": 0.5194459306,
+    "Felicidad": 6.461,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Suiza",
+    "Homicidio": 0.5440688222,
+    "Felicidad": 7.571,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Noruega",
+    "Homicidio": 0.5762254224,
+    "Felicidad": 7.392,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2020,
+    "País": "Países Bajos",
+    "Homicidio": 0.6137236348,
+    "Felicidad": 7.464,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Sudáfrica",
+    "Homicidio": 33.96487358,
+    "Felicidad": 4.956,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Namibia",
+    "Homicidio": 12.17308439,
+    "Felicidad": 4.574,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Uganda",
+    "Homicidio": 10.04400196,
+    "Felicidad": 4.636,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Cabo Verde",
+    "Homicidio": 6.178772484,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Zimbabwe",
+    "Homicidio": 4.977770426,
+    "Felicidad": 3.145,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Marruecos",
+    "Homicidio": 1.248338337,
+    "Felicidad": 4.918,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Argelia",
+    "Homicidio": 1.505120655,
+    "Felicidad": 4.887,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Ghana",
+    "Homicidio": 1.724652192,
+    "Felicidad": 5.088,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Kenia",
+    "Homicidio": 3.575977892,
+    "Felicidad": 4.607,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2020,
+    "País": "Rwanda",
+    "Homicidio": 3.590347033,
+    "Felicidad": 3.415,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Jamaica",
+    "Homicidio": 52.12727188,
+    "Felicidad": 5.85,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Santa Lucía",
+    "Homicidio": 38.96432816,
+    "Felicidad": "#N/A",
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Honduras",
+    "Homicidio": 38.34274689,
+    "Felicidad": 6.022,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Belice",
+    "Homicidio": 31.24757831,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "San Vicente y las Granadinas",
+    "Homicidio": 30.67131848,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Canadá",
+    "Homicidio": 2.065259474,
+    "Felicidad": 7.025,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Bolivia",
+    "Homicidio": 3.493530181,
+    "Felicidad": 5.6,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Chile",
+    "Homicidio": 3.632038675,
+    "Felicidad": 6.172,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Granada",
+    "Homicidio": 4.012519059,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "América",
+    "Año": 2021,
+    "País": "Cuba",
+    "Homicidio": 4.418250503,
+    "Felicidad": "#N/A",
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "Myanmar",
+    "Homicidio": 28.43781548,
+    "Felicidad": 4.394,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "Mongolia",
+    "Homicidio": 6.153326866,
+    "Felicidad": 5.761,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "Afganistán",
+    "Homicidio": 4.022497858,
+    "Felicidad": 2.404,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "Pakistán",
+    "Homicidio": 3.978788154,
+    "Felicidad": 4.516,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "India",
+    "Homicidio": 2.936278893,
+    "Felicidad": 3.777,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "Singapur",
+    "Homicidio": 0.1009920704,
+    "Felicidad": 6.48,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "Japón",
+    "Homicidio": 0.2287089419,
+    "Felicidad": 6.039,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "Omán",
+    "Homicidio": 0.2433374752,
+    "Felicidad": "#N/A",
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "Qatar",
+    "Homicidio": 0.3347921592,
+    "Felicidad": "#N/A",
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Asia",
+    "Año": 2021,
+    "País": "China",
+    "Homicidio": 0.4237193882,
+    "Felicidad": 5.585,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Federación de Rusia",
+    "Homicidio": 6.799319558,
+    "Felicidad": 5.477,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Ucrania",
+    "Homicidio": 3.843200895,
+    "Felicidad": 5.084,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Letonia",
+    "Homicidio": 3.041753672,
+    "Felicidad": 6.18,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Lituania",
+    "Homicidio": 2.583747047,
+    "Felicidad": 6.446,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Montenegro",
+    "Homicidio": 2.389073334,
+    "Felicidad": 5.547,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Malta",
+    "Homicidio": 0.3796882001,
+    "Felicidad": 6.447,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Eslovenia",
+    "Homicidio": 0.424646582,
+    "Felicidad": 6.63,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Irlanda",
+    "Homicidio": 0.4411889159,
+    "Felicidad": 7.041,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "República Checa",
+    "Homicidio": 0.4471612184,
+    "Felicidad": 6.92,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "Europa",
+    "Año": 2021,
+    "País": "Suiza",
+    "Homicidio": 0.4832359412,
+    "Felicidad": 7.512,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Sudáfrica",
+    "Homicidio": 41.86572812,
+    "Felicidad": 5.194,
+    "Top": 1,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Namibia",
+    "Homicidio": 12.44985229,
+    "Felicidad": 4.459,
+    "Top": 2,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Uganda",
+    "Homicidio": 8.531467135,
+    "Felicidad": 4.603,
+    "Top": 3,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Zimbabwe",
+    "Homicidio": 6.139985159,
+    "Felicidad": 2.995,
+    "Top": 4,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Kenia",
+    "Homicidio": 5.274912955,
+    "Felicidad": 4.543,
+    "Top": 5,
+    "Categoria": "Más violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Argelia",
+    "Homicidio": 1.573182343,
+    "Felicidad": 5.122,
+    "Top": 1,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Ghana",
+    "Homicidio": 1.836565107,
+    "Felicidad": 4.872,
+    "Top": 2,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Marruecos",
+    "Homicidio": 1.931137967,
+    "Felicidad": 5.06,
+    "Top": 3,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Rwanda",
+    "Homicidio": 3.363192723,
+    "Felicidad": 3.268,
+    "Top": 4,
+    "Categoria": "Menos violento"
+  },
+  {
+    "Continente": "África",
+    "Año": 2021,
+    "País": "Camerún",
+    "Homicidio": 4.051480281,
+    "Felicidad": 5.048,
+    "Top": 5,
+    "Categoria": "Menos violento"
+  }
+]

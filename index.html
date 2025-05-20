@@ -1,0 +1,420 @@
+<head>
+	<!-- Load plotly.js into the DOM -->
+	<script src='https://cdn.plot.ly/plotly-3.0.1.min.js'></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+<body style="background-color: black;">
+    <div style= "margin-left: 100px; margin-top: 50px; ">
+        <div>
+            <h1 id="current-year" style="color: aliceblue; font-size: 30px;">Año 2012</h2>
+            <div style="display: flex;">
+                <button id="filter-mode" style="margin-right: 20px;" class="filter-button-sm" onclick="toggleTimeMode()">Ver todos los años</button>
+                <div>
+                    <text style="color: white;">
+                        2012
+                    </text>
+                </div>
+                <input type="range" id="year-slider" min="2012" max="2021" value="2012" step="1" 
+                    style="width: 300px;" oninput="handleSliderChange(this.value)">
+                <div>
+                    <text style="color: white;">
+                        2021
+                    </text>
+                </div>
+            <!--<button id="add-year" onclick="disminuirAño()">Año atrás</button> -->
+            <!-- <button id="reduce-year" onclick="incrementarAño()">Año siguiente</button> -->
+            </div>
+        </div>
+        <div style="margin-top: 20px; padding-bottom: 10px;">
+            <button id="América" class="filter-button" style="background-color: #78acff;" onclick="toggleContinent('América')">América</button>
+            <button id="Europa" class="filter-button" style="background-color: #ff78a9;" onclick="toggleContinent('Europa')">Europa</button>
+            <button id="Asia" class="filter-button" style="background-color: #ffdd78;" onclick="toggleContinent('Asia')">Asia</button>
+            <button id="África" class="filter-button" style="background-color: #78ff9c;" onclick="toggleContinent('África')">África</button>
+            <button id="remove" class="filter-button inactive" disabled onclick="toggleContinent('remove')" disabled>Quitar Filtros de Continente</button>
+        </div>
+    </div>
+    <div id='queso'><!-- Plotly chart will be drawn inside this DIV --></div>
+
+</body>
+
+  <script>
+    let datosJSON = [];
+    var timeMode = "singleYear";
+    var añoActual = 2012;
+    let activeContinents = ['América', 'Europa', 'Asia', 'África'];
+    let americaColor = "#78acff";
+    let africaColor = "#78ff9c";
+    let europaColor = "#ff78a9";
+    let asiaColor = "#ffdd78";
+    // Carga los datos una vez
+    fetch('data.json')
+      .then(response => response.json())
+      .then(data => {
+        datosJSON = data;
+        actualizarGrafico(); // Dibuja el gráfico inicial
+      })
+      .catch(err => {
+        console.error("Error loading JSON data:", err);
+      });
+
+
+    function actualizarGrafico() {
+        let minSize = 5;
+        let maxSize = 200;
+        let sizeMultiplier = 2; //2
+        let sireRefMultiplier = 1; //1
+        var data = []
+        if (timeMode == "singleYear"){
+
+            if (activeContinents.includes("América")) {
+                const americaData = datosJSON.filter(d => d.Continente === "América" && d.Año === añoActual);
+                    data.push({
+                    x: americaData.map(d => d.Homicidio),
+                    y: americaData.map(d => d.Felicidad),
+                    name: 'América',
+                    text: americaData.map(d => `${d.País}<br>Categoría: ${d.Categoria}`),
+                    mode: 'markers',
+                    marker: {
+                    color: americaData.map(() => americaColor),
+                    size: americaData.map(d => Math.min(maxSize, Math.max(minSize, d.Homicidio * sizeMultiplier))),
+                    sizeref: sireRefMultiplier,
+                    line: {
+                        width: 0, // Removes the stroke
+                    }
+                    },
+                    type: 'scatter'
+            }); 
+        }  
+
+            if (activeContinents.includes("Europa")) {
+            const europeData = datosJSON.filter(d => d.Continente === "Europa" && d.Año === añoActual);
+            data.push( {
+                x: europeData.map(d => d.Homicidio),
+                y: europeData.map(d => d.Felicidad),
+                name: 'Europa',
+                text: europeData.map(d => `${d.País}<br>Categoría: ${d.Categoria}`),
+                mode: 'markers',
+                marker: {
+                color: europeData.map(() => europaColor),
+                size: europeData.map(d => Math.min(maxSize, Math.max(minSize, d.Homicidio * sizeMultiplier))),
+                sizeref: sireRefMultiplier,
+                line: {
+                    width: 0, // Removes the stroke
+                }
+                },
+                type: 'scatter'
+            });
+
+
+            }
+
+            if (activeContinents.includes("Asia")) {
+            const asiaData = datosJSON.filter(d => d.Continente === "Asia"  && d.Año === añoActual );
+            data.push({
+                x: asiaData.map(d => d.Homicidio),
+                y: asiaData.map(d => d.Felicidad),
+                name: 'Asia',
+                text: asiaData.map(d => `${d.País}<br>Categoría: ${d.Categoria}`),
+                mode: 'markers',
+                marker: {
+                color: asiaData.map(() => asiaColor),
+                size: asiaData.map(d => Math.min(maxSize, Math.max(minSize, d.Homicidio * sizeMultiplier))),
+                sizeref: sireRefMultiplier,
+                line: {
+                    width: 0, // Removes the stroke
+                },
+                line: {
+                        width: 0, // Removes the stroke
+                    }
+                },
+                type: 'scatter'
+            });
+
+
+            }
+
+            if (activeContinents.includes("África")) {
+            const africaData = datosJSON.filter(d => d.Continente === "África" && d.Año === añoActual);
+            data.push({
+                x: africaData.map(d => d.Homicidio),
+                y: africaData.map(d => d.Felicidad),
+                name: 'África',
+                text: africaData.map(d => `${d.País}<br>Categoría: ${d.Categoria}`),
+                mode: 'markers',
+                marker: {
+                color: africaData.map(() => africaColor),
+                size: africaData.map(d => Math.min(maxSize, Math.max(minSize, d.Homicidio * sizeMultiplier))),
+                sizeref: sireRefMultiplier,
+                line: {
+                    width: 0, // Removes the stroke
+                }
+                },
+                type: 'scatter'
+            });
+            }
+
+
+        }
+
+        if (timeMode == "allTime"){
+
+            if (activeContinents.includes("América")) {
+                const americaData = datosJSON.filter(d => d.Continente === "América");
+                    data.push({
+                    x: americaData.map(d => d.Homicidio),
+                    y: americaData.map(d => d.Felicidad),
+                    name: 'América',
+                    text: americaData.map(d => `${d.País}<br>Categoría: ${d.Categoria}`),
+                    mode: 'markers',
+                    marker: {
+                    color: americaData.map(() => americaColor),
+                    size: americaData.map(d => Math.min(maxSize, Math.max(minSize, d.Homicidio * sizeMultiplier))),
+                    sizeref: sireRefMultiplier,
+                    line: {
+                        width: 0, // Removes the stroke
+                    }
+                    },
+                    type: 'scatter'
+            }); 
+        }  
+
+            if (activeContinents.includes("Europa")) {
+            const europeData = datosJSON.filter(d => d.Continente === "Europa");
+            data.push( {
+                x: europeData.map(d => d.Homicidio),
+                y: europeData.map(d => d.Felicidad),
+                name: 'Europa',
+                text: europeData.map(d => `${d.País}<br>Categoría: ${d.Categoria}`),
+                mode: 'markers',
+                marker: {
+                color: europeData.map(() => europaColor),
+                size: europeData.map(d => Math.min(maxSize, Math.max(minSize, d.Homicidio * sizeMultiplier))),
+                sizeref: sireRefMultiplier,
+                line: {
+                    width: 0, // Removes the stroke
+                }
+                },
+                type: 'scatter'
+            });
+
+
+            }
+
+            if (activeContinents.includes("Asia")) {
+            const asiaData = datosJSON.filter(d => d.Continente === "Asia"  );
+            data.push({
+                x: asiaData.map(d => d.Homicidio),
+                y: asiaData.map(d => d.Felicidad),
+                name: 'Asia',
+                text: asiaData.map(d => `${d.País}<br>Categoría: ${d.Categoria}`),
+                mode: 'markers',
+                marker: {
+                color: asiaData.map(() => asiaColor),
+                size: asiaData.map(d => Math.min(maxSize, Math.max(minSize, d.Homicidio * sizeMultiplier))),
+                sizeref: sireRefMultiplier,
+                line: {
+                    width: 0, // Removes the stroke
+                },
+                line: {
+                        width: 0, // Removes the stroke
+                    }
+                },
+                type: 'scatter'
+            });
+
+
+            }
+
+            if (activeContinents.includes("África")) {
+            const africaData = datosJSON.filter(d => d.Continente === "África");
+            data.push({
+                x: africaData.map(d => d.Homicidio),
+                y: africaData.map(d => d.Felicidad),
+                name: 'África',
+                text: africaData.map(d => `${d.País}<br>Categoría: ${d.Categoria}`),
+                mode: 'markers',
+                marker: {
+                color: africaData.map(() => africaColor),
+                size: africaData.map(d => Math.min(maxSize, Math.max(minSize, d.Homicidio * sizeMultiplier))),
+                sizeref: sireRefMultiplier,
+                line: {
+                    width: 0, // Removes the stroke
+                }
+                },
+                type: 'scatter'
+            });
+            }
+
+
+        }
+
+      const layout = {
+        showlegend: false,
+        margin : {
+            t:20
+        },
+        height: 750,
+        plot_bgcolor: 'black',
+        paper_bgcolor: 'black',
+        yaxis: { 
+            gridcolor: 'black', 
+            fixedrange : true,
+            range : [0,8],
+            title: {
+                text :"Felicidad"
+            } 
+        },
+        xaxis: { 
+            gridcolor: 'black', 
+            fixedrange : true,
+            range : [0,130],
+            title: {
+                text :"Homicidios"
+            }
+        }
+      };
+      Plotly.newPlot('queso', data, layout, {
+            displayModeBar: false, // optional: hide the toolbar
+            });
+    }
+
+    function toggleTimeMode () {
+        console.log (timeMode)
+        if (timeMode == "singleYear"){
+            document.getElementById("filter-mode").innerText = `Ver año específico`;
+            document.getElementById("year-slider").disabled=true;
+            document.getElementById("year-slider").classList.toggle("inactive");
+            /*document.getElementById("add-year").disabled = true;
+            document.getElementById("reduce-year").disabled = true;*/
+            timeMode = "allTime"
+            document.getElementById("current-year").innerText = `Años del 2012 a 2021`;
+            actualizarGrafico();    
+            return "done"
+        }
+        if (timeMode == "allTime") {
+            document.getElementById("filter-mode").innerText = `Ver todos los años`;
+            document.getElementById("current-year").innerText = `Año ${añoActual}`;
+            document.getElementById("year-slider").disabled=false;
+            document.getElementById("year-slider").classList.toggle("inactive");
+            /*document.getElementById("add-year").disabled = false;
+            document.getElementById("reduce-year").disabled = false;*/
+            timeMode = "singleYear"
+            actualizarGrafico();
+            return "done"
+        }
+    }
+
+    function toggleContinent(continent) {
+        
+        if (continent == "remove"){
+            activeContinents = ['América', 'Europa', 'Asia', 'África'];
+            document.getElementById("América").classList.remove("inactive");
+            document.getElementById("África").classList.remove("inactive");
+            document.getElementById("Asia").classList.remove("inactive");
+            document.getElementById("Europa").classList.remove("inactive");
+            document.getElementById("remove").disabled = true;
+            document.getElementById("remove").classList.toggle("inactive");
+            actualizarGrafico();
+            return "done"
+        }
+      
+      const index = activeContinents.indexOf(continent);
+      if (index > -1) {
+            activeContinents.splice(index, 1); // Remove if exists
+        } else {
+            activeContinents.push(continent); // Add if not exists
+        }
+
+        document.getElementById(continent).classList.toggle("inactive");
+
+     if (activeContinents.length == 4 ){ //apagar el quita filtro
+            document.getElementById("remove").disabled = true;
+            document.getElementById("remove").classList.add("inactive");
+        } else {
+            document.getElementById("remove").disabled = false;
+            document.getElementById("remove").classList.remove("inactive");
+        }
+      actualizarGrafico();
+    }
+
+    function handleSliderChange(value) {
+        añoActual = parseInt(value);
+        if (añoActual == 2013){
+            añoActual=2012
+        }
+        document.getElementById('current-year').textContent = `Año ${añoActual}`;
+        actualizarGrafico(); // call your chart update logic here
+    }
+
+    function incrementarAño() {
+      añoActual++;
+      if (añoActual == 2013){ añoActual = 2014}
+      if (añoActual == 2022){ añoActual = 2012}
+        document.getElementById("current-year").innerText = `Año ${añoActual}`;
+      actualizarGrafico();
+    }
+
+    function disminuirAño() {
+      añoActual--;
+      if (añoActual == 2013){ añoActual = 2012}
+      if (añoActual == 2011){ añoActual = 2021}
+        document.getElementById("current-year").innerText = `Año ${añoActual}`;
+      actualizarGrafico();
+    }
+  </script>
+
+<style>
+
+
+    h1, text {
+      font-family: 'Roboto', sans-serif;
+      font-weight: lighter;
+    }
+
+    .inactive {
+        opacity: 20%;
+    }  
+
+
+.filter-button {
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-right: 5px;
+}
+
+
+.filter-button-sm {
+  background-color: #cecece;
+  border-radius: 100px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 2px 10px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 12px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-right: 5px;
+}
+
+
+</style>
+
